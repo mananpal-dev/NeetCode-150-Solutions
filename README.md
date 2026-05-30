@@ -16,6 +16,7 @@ problem-solving, logic building, and interview preparation.
 | Product of Array Except Self | Arrays & Prefix Products | ✅ |
 | Valid Sudoku | Hashing | ✅ |
 | Longest Consecutive Sequence | Arrays & Hashing | ✅ |
+| Valid Palindrome | Two Pointers & Strings | ✅ |
 
 ## Topics Covered
 
@@ -25,6 +26,8 @@ problem-solving, logic building, and interview preparation.
 - String Encoding
 - Prefix & Postfix Products
 - HashSets
+- Two Pointers
+- Strings
 
 ## Goal
 
