@@ -18,6 +18,7 @@ problem-solving, logic building, and interview preparation.
 | Longest Consecutive Sequence | Arrays & Hashing | ✅ |
 | Valid Palindrome | Two Pointers & Strings | ✅ |
 | Two Sum II - Input Array Is Sorted | Two Pointers | ✅ |
+| 3Sum | Two Pointers | ✅ |
 
 ## Topics Covered
 
