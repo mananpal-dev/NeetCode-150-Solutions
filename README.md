@@ -20,6 +20,7 @@ problem-solving, logic building, and interview preparation.
 | Two Sum II - Input Array Is Sorted | Two Pointers | ✅ |
 | 3Sum | Two Pointers | ✅ |
 | Container With Most Water | Two Pointers | ✅ |
+| Trapping Rain Water | Two Pointers | ✅ |
 
 ## Topics Covered
 
@@ -31,6 +32,7 @@ problem-solving, logic building, and interview preparation.
 - HashSets
 - Two Pointers
 - Strings
+- Sliding Window Foundations
 
 ## Goal
 
