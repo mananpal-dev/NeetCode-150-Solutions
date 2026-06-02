@@ -22,6 +22,7 @@ problem-solving, logic building, and interview preparation.
 | Container With Most Water | Two Pointers | ✅ |
 | Trapping Rain Water | Two Pointers | ✅ |
 | Best Time to Buy and Sell Stock | Sliding Window | ✅ |
+| Longest Substring Without Repeating Characters | Sliding Window | ✅ |
 
 ## Topics Covered
 
@@ -33,7 +34,7 @@ problem-solving, logic building, and interview preparation.
 - HashSets
 - Two Pointers
 - Strings
-- Sliding Window Foundations
+- Sliding Window
 
 ## Goal
 
