@@ -24,6 +24,7 @@ problem-solving, logic building, and interview preparation.
 | Best Time to Buy and Sell Stock | Sliding Window | ✅ |
 | Longest Substring Without Repeating Characters | Sliding Window | ✅ |
 | Longest Repeating Character Replacement | Sliding Window | ✅ |
+| Permutation in String | Sliding Window | ✅ |
 
 ## Topics Covered
 
