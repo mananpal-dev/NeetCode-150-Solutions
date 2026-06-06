@@ -28,6 +28,7 @@ problem-solving, logic building, and interview preparation.
 | Minimum Window Substring | Sliding Window | ✅ |
 | Sliding Window Maximum | Sliding Window / Monotonic Queue | ✅ |
 | Valid Parentheses | Stack | ✅ |
+| Min Stack | Stack | ✅ |
 
 ## Topics Covered
 
