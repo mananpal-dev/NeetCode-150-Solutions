@@ -27,6 +27,7 @@ problem-solving, logic building, and interview preparation.
 | Permutation in String | Sliding Window | ✅ |
 | Minimum Window Substring | Sliding Window | ✅ |
 | Sliding Window Maximum | Sliding Window / Monotonic Queue | ✅ |
+| Valid Parentheses | Stack | ✅ |
 
 ## Topics Covered
 
@@ -40,6 +41,7 @@ problem-solving, logic building, and interview preparation.
 - Strings
 - Sliding Window
 - Monotonic Queue
+- Stack
 
 ## Goal
 
