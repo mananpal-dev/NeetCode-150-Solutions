@@ -30,6 +30,7 @@ problem-solving, logic building, and interview preparation.
 | Valid Parentheses | Stack | ✅ |
 | Min Stack | Stack | ✅ |
 | Binary Search | Binary Search | ✅ |
+| Search a 2D Matrix | Binary Search | ✅ |
 
 ## Topics Covered
 
