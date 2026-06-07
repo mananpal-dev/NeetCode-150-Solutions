@@ -29,6 +29,7 @@ problem-solving, logic building, and interview preparation.
 | Sliding Window Maximum | Sliding Window / Monotonic Queue | ✅ |
 | Valid Parentheses | Stack | ✅ |
 | Min Stack | Stack | ✅ |
+| Binary Search | Binary Search | ✅ |
 
 ## Topics Covered
 
@@ -43,6 +44,7 @@ problem-solving, logic building, and interview preparation.
 - Sliding Window
 - Monotonic Queue
 - Stack
+- Binary Search
 
 ## Goal
 
