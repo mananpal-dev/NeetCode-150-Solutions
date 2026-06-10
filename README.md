@@ -34,6 +34,7 @@ problem-solving, logic building, and interview preparation.
 | Koko Eating Bananas | Binary Search | ✅ |
 | Find Minimum in Rotated Sorted Array | Binary Search | ✅ |
 | Search in Rotated Sorted Array | Binary Search | ✅ |
+| Rotate Array | Arrays | ✅ |
 
 ## Topics Covered
 
