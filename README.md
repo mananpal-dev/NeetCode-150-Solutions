@@ -36,6 +36,7 @@ problem-solving, logic building, and interview preparation.
 | Search in Rotated Sorted Array | Binary Search | ✅ |
 | Rotate Array | Arrays | ✅ |
 | Remove Duplicates from Sorted Array II | Arrays / Two Pointers | ✅ |
+| Time Based Key-Value Store | Hash Map / Binary Search | ✅ |
 
 ## Topics Covered
 
