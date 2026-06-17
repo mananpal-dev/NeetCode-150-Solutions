@@ -38,6 +38,7 @@ problem-solving, logic building, and interview preparation.
 | Remove Duplicates from Sorted Array II | Arrays / Two Pointers | ✅ |
 | Time Based Key-Value Store | Hash Map / Binary Search | ✅ |
 | Median of Two Sorted Arrays | Binary Search | ✅ |
+| Remove Duplicates from Sorted Array | Two Pointers | ✅ |
 
 ## Topics Covered
 
