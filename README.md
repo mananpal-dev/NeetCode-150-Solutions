@@ -39,6 +39,7 @@ problem-solving, logic building, and interview preparation.
 | Time Based Key-Value Store | Hash Map / Binary Search | ✅ |
 | Median of Two Sorted Arrays | Binary Search | ✅ |
 | Remove Duplicates from Sorted Array | Two Pointers | ✅ |
+| Implement Trie (Prefix Tree) | Trie | ✅ |
 
 ## Topics Covered
 
@@ -55,6 +56,7 @@ problem-solving, logic building, and interview preparation.
 - Stack
 - Binary Search
 - Design
+- Trie
 
 ## Goal
 
