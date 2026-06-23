@@ -43,6 +43,7 @@ problem-solving, logic building, and interview preparation.
 | Reverse Linked List | Linked List | ✅ |
 | Merge Two Sorted Lists | Linked List | ✅ |
 | Linked List Cycle | Linked List / Two Pointers | ✅ |
+| Reorder List | Linked List | ✅ |
 
 ## Topics Covered
 
