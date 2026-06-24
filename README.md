@@ -45,6 +45,7 @@ problem-solving, logic building, and interview preparation.
 | Linked List Cycle | Linked List / Two Pointers | ✅ |
 | Reorder List | Linked List | ✅ |
 | Remove Nth Node From End of List | Linked List / Two Pointers | ✅ |
+| Copy List with Random Pointer | Linked List / Hash Map | ✅ |
 
 ## Topics Covered
 
