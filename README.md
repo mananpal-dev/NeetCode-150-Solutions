@@ -46,6 +46,7 @@ problem-solving, logic building, and interview preparation.
 | Reorder List | Linked List | ✅ |
 | Remove Nth Node From End of List | Linked List / Two Pointers | ✅ |
 | Copy List with Random Pointer | Linked List / Hash Map | ✅ |
+| Add Two Numbers | Linked List | ✅ |
 
 ## Topics Covered
 
