@@ -47,6 +47,7 @@ problem-solving, logic building, and interview preparation.
 | Remove Nth Node From End of List | Linked List / Two Pointers | ✅ |
 | Copy List with Random Pointer | Linked List / Hash Map | ✅ |
 | Add Two Numbers | Linked List | ✅ |
+| Find the Duplicate Number | Linked List / Floyd's Cycle Detection | ✅ |
 
 ## Topics Covered
 
