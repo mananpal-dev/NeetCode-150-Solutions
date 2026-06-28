@@ -48,6 +48,7 @@ problem-solving, logic building, and interview preparation.
 | Copy List with Random Pointer | Linked List / Hash Map | ✅ |
 | Add Two Numbers | Linked List | ✅ |
 | Find the Duplicate Number | Linked List / Floyd's Cycle Detection | ✅ |
+| LRU Cache | Design / Hash Map / Doubly Linked List | ✅ |
 
 ## Topics Covered
 
@@ -65,7 +66,9 @@ problem-solving, logic building, and interview preparation.
 - Binary Search
 - Design
 - Trie
-- Reverse Linked List
+- Linked List
+- Doubly Linked List
+- Floyd's Cycle Detection
 
 ## Goal
 
