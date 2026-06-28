@@ -49,6 +49,7 @@ problem-solving, logic building, and interview preparation.
 | Add Two Numbers | Linked List | ✅ |
 | Find the Duplicate Number | Linked List / Floyd's Cycle Detection | ✅ |
 | LRU Cache | Design / Hash Map / Doubly Linked List | ✅ |
+| Merge K Sorted Lists | Linked List / Divide and Conquer | ✅ |
 
 ## Topics Covered
 
@@ -69,6 +70,7 @@ problem-solving, logic building, and interview preparation.
 - Linked List
 - Doubly Linked List
 - Floyd's Cycle Detection
+- Divide and Conquer
 
 ## Goal
 
