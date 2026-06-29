@@ -51,6 +51,7 @@ problem-solving, logic building, and interview preparation.
 | LRU Cache | Design / Hash Map / Doubly Linked List | ✅ |
 | Merge K Sorted Lists | Linked List / Divide and Conquer | ✅ |
 | Reverse Nodes in k-Group | Linked List / Recursion | ✅ |
+| Invert Binary Tree | Trees / DFS / Recursion | ✅ |
 
 ## Topics Covered
 
@@ -72,6 +73,7 @@ problem-solving, logic building, and interview preparation.
 - Doubly Linked List
 - Floyd's Cycle Detection
 - Divide and Conquer
+- Depth-First Search (DFS)
 
 ## Goal
 
