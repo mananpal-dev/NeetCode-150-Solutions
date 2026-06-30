@@ -52,6 +52,7 @@ problem-solving, logic building, and interview preparation.
 | Merge K Sorted Lists | Linked List / Divide and Conquer | ✅ |
 | Reverse Nodes in k-Group | Linked List / Recursion | ✅ |
 | Invert Binary Tree | Trees / DFS / Recursion | ✅ |
+| Maximum Depth of Binary Tree | Trees / DFS / Recursion | ✅ |
 
 ## Topics Covered
 
