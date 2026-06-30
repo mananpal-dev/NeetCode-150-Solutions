@@ -53,6 +53,7 @@ problem-solving, logic building, and interview preparation.
 | Reverse Nodes in k-Group | Linked List / Recursion | ✅ |
 | Invert Binary Tree | Trees / DFS / Recursion | ✅ |
 | Maximum Depth of Binary Tree | Trees / DFS / Recursion | ✅ |
+| Diameter of Binary Tree | Trees / DFS / Recursion | ✅ |
 
 ## Topics Covered
 
