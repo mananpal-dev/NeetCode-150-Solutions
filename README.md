@@ -55,6 +55,7 @@ problem-solving, logic building, and interview preparation.
 | Maximum Depth of Binary Tree | Trees / DFS / Recursion | ✅ |
 | Diameter of Binary Tree | Trees / DFS / Recursion | ✅ |
 | Balanced Binary Tree | Trees / DFS / Recursion | ✅ |
+| Same Tree | Trees / DFS / Recursion | ✅ |
 
 ## Topics Covered
 
