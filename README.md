@@ -56,6 +56,7 @@ problem-solving, logic building, and interview preparation.
 | Diameter of Binary Tree | Trees / DFS / Recursion | ✅ |
 | Balanced Binary Tree | Trees / DFS / Recursion | ✅ |
 | Same Tree | Trees / DFS / Recursion | ✅ |
+| Symmetric Tree | Trees / DFS / Recursion | ✅ |
 
 ## Topics Covered
 
