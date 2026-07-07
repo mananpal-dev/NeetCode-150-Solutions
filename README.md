@@ -58,6 +58,7 @@ problem-solving, logic building, and interview preparation.
 | Same Tree | Trees / DFS / Recursion | ✅ |
 | Symmetric Tree | Trees / DFS / Recursion | ✅ |
 | Subtree of Another Tree | Trees / DFS / Recursion | ✅ |
+| Lowest Common Ancestor of a Binary Search Tree | Trees / Binary Search Tree | ✅ |
 
 ## Topics Covered
 
