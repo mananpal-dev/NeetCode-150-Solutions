@@ -59,6 +59,7 @@ problem-solving, logic building, and interview preparation.
 | Symmetric Tree | Trees / DFS / Recursion | ✅ |
 | Subtree of Another Tree | Trees / DFS / Recursion | ✅ |
 | Lowest Common Ancestor of a Binary Search Tree | Trees / Binary Search Tree | ✅ |
+| Binary Tree Level Order Traversal | Trees / BFS / Queue | ✅ |
 
 ## Topics Covered
 
@@ -80,7 +81,12 @@ problem-solving, logic building, and interview preparation.
 - Doubly Linked List
 - Floyd's Cycle Detection
 - Divide and Conquer
+- Recursion
+- Trees
+- Binary Search Tree (BST)
 - Depth-First Search (DFS)
+- Breadth-First Search (BFS)
+- Queue
 
 ## Goal
 
