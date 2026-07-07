@@ -57,6 +57,7 @@ problem-solving, logic building, and interview preparation.
 | Balanced Binary Tree | Trees / DFS / Recursion | ✅ |
 | Same Tree | Trees / DFS / Recursion | ✅ |
 | Symmetric Tree | Trees / DFS / Recursion | ✅ |
+| Subtree of Another Tree | Trees / DFS / Recursion | ✅ |
 
 ## Topics Covered
 
