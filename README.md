@@ -61,6 +61,7 @@ problem-solving, logic building, and interview preparation.
 | Lowest Common Ancestor of a Binary Search Tree | Trees / Binary Search Tree | ✅ |
 | Binary Tree Level Order Traversal | Trees / BFS / Queue | ✅ |
 | Binary Tree Right Side View | Trees / BFS / Queue | ✅ |
+| Count Good Nodes in Binary Tree | Trees / DFS / Recursion | ✅ |
 
 ## Topics Covered
 
